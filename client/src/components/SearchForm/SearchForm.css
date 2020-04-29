@@ -1,0 +1,11 @@
+#search-btn {
+  width: 100%;
+  background-color: rgb(72, 82, 138);
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  color: white;
+}
+
+#input {
+  width: 90%;
+}
