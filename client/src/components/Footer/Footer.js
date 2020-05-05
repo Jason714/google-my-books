@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer" id="footer">
       <div className="text-center">
-        <p>&copy; 2020</p>
+        <p className="text-muted">&copy; Jason Blake 2020</p>
       </div>
     </footer>
   );
