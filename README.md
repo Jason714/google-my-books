@@ -19,3 +19,4 @@ Technologies Used
 - React.js
 - Bootstrap
 
+<img src="images/book-search.png"/>
